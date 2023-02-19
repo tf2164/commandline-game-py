@@ -1,9 +1,17 @@
+
+
+Welcome to my Python Command Line game!
+
+My name is Tyra Fair 
+
+
+
 # instructions
 
-Hosted version coming soon!
+Hosted version coming!
 
 Untill then...
-To play 
+To play in VS Code
 
 download zip 
 open it
@@ -19,7 +27,7 @@ sudo pip3  install --upgrade pip
 -----------
 pip install inquirer
 
-
+When you are ready to play make sure to click into the terminal and select options using the keyboard arrows and "enter"
 
 
 
