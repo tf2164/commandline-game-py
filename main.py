@@ -58,6 +58,7 @@
 #Choice 6a: Say something first
 #Choice 6b: wait
 
+
 # while loop of slience oogway style
 
 # Decision 7: You will have to answer a riddle to claim your prize.
